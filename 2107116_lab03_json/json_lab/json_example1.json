@@ -1,0 +1,47 @@
+[
+    {
+        "firstName": "Joy",
+        "surname": "Shuvo",
+        "gender": "Male",
+        "age": 24,
+        "address": {
+            "streetAddress": "South Banasree",
+            "city": "Dhaka City",
+            "state": "United State Of Dhaka ",
+            "postalCode": "9999"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "+390212345678" }
+        ]
+    },
+    {
+        "firstName": "Emon",
+        "surname": "Islam",
+        "gender": "Male",
+        "age": 25,
+        "address": {
+            "streetAddress": "Dhanmondi-32",
+            "city": "Dhaka City",
+            "state": "Dhaka",
+            "postalCode": "9999"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "01522131075" }
+        ]
+    },
+    {
+        "firstName": "Soykot",
+        "surname": "pocha_chele",
+        "gender": "Male",
+        "age": 90,
+        "address": {
+            "streetAddress": "TungiPara",
+            "city": "GopalGang City",
+            "state": "Gopali Kingdom",
+            "postalCode": "9999"
+        },
+        "phoneNumbers": [
+            { "type": "home", "number": "01521775258" }
+        ]
+    }
+]
